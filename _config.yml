@@ -1,6 +1,15 @@
 title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+nav_enabled: true
+footer_content: Work belongs to Chandrahaas Vadali
+color_scheme: default
+
+callouts:
+  warning:
+    title: Note
+    color: grey-lt
+
 
 url: https://just-the-docs.github.io
 
